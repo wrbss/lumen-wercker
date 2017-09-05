@@ -20,4 +20,3 @@ build:
             echo "mysql version: $(mysql --version)"
     - mbrevda/php-lint:
         directory: app
-
