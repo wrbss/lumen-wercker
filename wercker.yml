@@ -1,4 +1,4 @@
-box: wrbss/testing-php5.5:0.9
+box: wrbss/testing-php5.5:wercker
 
 build:
   steps:
